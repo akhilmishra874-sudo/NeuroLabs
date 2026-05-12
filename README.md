@@ -1,2 +1,14 @@
 # NeuroLabs
-A collection of my coding and development projects.
+
+🚀 Python and AI/ML projects repository.
+
+## Projects
+- Password Generator
+- More projects coming soon
+
+## Tech Stack
+- Python
+- GitHub
+
+## Developer
+Akhil Mishra
